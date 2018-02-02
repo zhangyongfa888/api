@@ -50,6 +50,10 @@
             "name": "自定",
             "url": "https://raw.githubusercontent.com/tonywunyc/IPTV-M3U8/master/CCTV-IPTV-CNTV.m3u8",
             "type": 0
+        },{
+        "name":"自定2",
+            "url":"https://raw.githubusercontent.com/tresMil/-chale-/master/M3u8",
+            "type":0
         }
     ]
 }
