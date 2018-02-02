@@ -1,0 +1,130 @@
+{
+    "playlist": [
+        {
+            "name": "super-pomoyka (acestream)",
+            "url": "http://pomoyka.win/trash/ttv-list/ttv.m3u",
+            "type": 1
+        },
+        {
+            "name": "allfon-tv (acestream)",
+            "url": "http://pomoyka.win/trash/ttv-list/allfon.all.player.m3u",
+            "type": 0
+        },
+        {
+            "name": "acestream.net",
+            "url": "http://pomoyka.win/trash/ttv-list/ace.all.player.m3u",
+            "type": 1
+        },
+        {
+            "name": "FreeSlyNet",
+            "url": "http://iptv.slynet.tv/FreeSlyNet.m3u",
+            "type": 0
+        },
+        {
+            "name": "BestTV SlyNet",
+            "url": "http://iptv.slynet.tv/FreeBestTV.m3u",
+            "type": 0
+        },
+        {
+            "name": "FreeWorldTV",
+            "url": "http://iptv.slynet.tv/FreeWorldTV.m3u",
+            "type": 0
+        },
+        {
+            "name": "Webcam World",
+            "url": "http://iptv.slynet.tv/FreeWebCamsWorld.m3u",
+            "type": 0
+        },
+        {
+            "name": "PeersTV SlyNet",
+            "url": "http://iptv.slynet.tv/PeerstvSlyNet.m3u",
+            "type": 0
+        },
+        {
+            "name": "Kinodrom SlyNet",
+            "url": "http://iptv.slynet.tv/KinodromSlyNet.m3u",
+            "type": 0
+        },
+        {
+            "name": "Lanet",
+            "url": "http://lanet.tv/playlist.m3u",
+            "type": 0
+        },
+        {
+            "name": "ListIPTV",
+            "url": "http://listiptv.ru/iptv.m3u",
+            "type": 0
+        },
+        {
+            "name": "ListIPTV 18",
+            "url": "http://listiptv.ru/iptv18.m3u",
+            "type": 0
+        },
+        {
+            "name": "545-TV(UA)",
+            "url": "http://545-tv.com/listUA.php",
+            "type": 0
+        },
+        {
+            "name": "getsapp 400",
+            "url": "http://getsapp.ru/IPTV/Auto_IPTV.m3u",
+            "type": 0
+        },
+        {
+            "name": "getsapp 444",
+            "url": "http://getsapp.ru/IPTV/444_iptv.m3u",
+            "type": 0
+        },
+        {
+            "name": "SmartZala",
+            "url": "https://playlist.vladna.tk/z.m3u",
+            "type": 0
+        },
+        {
+            "name": "KinoBOOM",
+            "url": "http://gazetamayak.kz/playlists/kinoBOOM.m3u8",
+            "type": 0
+        },
+        {
+            "name": "Diforfree",
+            "url": "http://diforfree.org/pls/di_hi.m3u",
+            "type": 0
+        },
+        {
+            "name": "Custom 1",
+            "url": "https://pastebin.com/raw/kCq0xdz4",
+            "type": 0
+        },
+        {
+            "name": "Custom 2",
+            "url": "https://223307.selcdn.ru/kb/pl/IPTVKZ.m3u8",
+            "type": 0
+        },
+        {
+            "name": "SmartTvNews",
+            "url": "http://smarttvnews.ru/wp-content/uploads/2017/03/Auto-IPTV-400.m3u",
+            "type": 0
+        },
+        {
+            "name": "Free Blue Crabs TV",
+            "url": "https://223307.selcdn.ru/kb/pl/FreeBlueCrabsTV.m3u8",
+            "type": 0
+        },
+        {
+            "name": "Pandasat.info",
+            "url": "http://www.pandasat.info/iptv/kodi",
+            "type": 0
+        },
+        {
+            "name": "Fluxus TV",
+            "url": "https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u",
+            "type": 0
+        }
+        ,
+        {
+            "name": "自定",
+            "url": "https://raw.githubusercontent.com/tonywunyc/IPTV-M3U8/master/CCTV-IPTV-CNTV.m3u8",
+            "type": 0
+        }
+    ]
+}
