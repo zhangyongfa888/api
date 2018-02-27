@@ -1,0 +1,38 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "address": "http://y.mt2t.com/lines?url=",
+            "name": "2支持腾讯Vip"
+        },
+        {
+            "address": "http://jx.2012net.com/index.php?url=",
+            "name": "1支持腾讯Vip"
+        },
+        {
+            "address": "http://api.baiyug.cn/vip/index.php?url=",
+            "name": "3支持腾讯Vip"
+        },
+        {
+            "address": "http://65yw.2m.vc/chaojikan.php?url=",
+            "name": "芒果TV手机接口"
+        },
+        {
+            "address": "http://www.wevve.cn/vip/index.php?url=",
+            "name": "优酷超清接口"
+        },
+        {
+            "address": "http://api.nepian.com/ckparse/?url=",
+            "name": "ckplayer接口"
+        },
+        {
+            "address": "https://api.flvsp.com/?url=",
+            "name": "线路八"
+        },
+        {
+            "address": "http://api.30pan.com/api/?url=",
+            "name": "30pan"
+        }
+    ],
+    "message": "成功"
+}
